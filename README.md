@@ -122,19 +122,19 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 
 
 
-## 🍔 Food Website
+## 🍔 Online Food Ordering System
 
-A responsive food ordering website with a modern and user-friendly interface.
+A Java-based application that implements the core functionalities of an online food ordering system. This project focuses on applying Object-Oriented Programming concepts and Java programming fundamentals.
 
 ### ✨ Features
 
-- Beautiful Landing Page
-- Food Menu
-- Responsive Design
-- Modern Animations
-- User-Friendly Interface
+- User Registration & Login
+- Food Menu Management
+- Order Processing
+- Bill Generation
+- Core Java Functionality
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:** Java • Object-Oriented Programming (OOP)
 
 🔗 **Repository:** https://github.com/shreyshi11/Online-Food-Ordering-System
 
