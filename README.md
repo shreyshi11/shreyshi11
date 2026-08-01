@@ -7,6 +7,7 @@ Final Year B.Tech Information Technology Student • Aspiring Software Engineer 
 <p align="center">
 Passionate about building impactful software, solving real-world problems, and exploring Artificial Intelligence & Full Stack Development.
 </p>
+
 ---
 
 ## 👩‍💻 About Me
