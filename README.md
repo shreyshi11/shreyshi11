@@ -77,9 +77,10 @@ A smart web platform designed to help students explore universities and courses 
 - Responsive UI
 
 **Tech Stack:** HTML, CSS, JavaScript, Firebase, EmailJS, Google Calendar API
+
 🔗 Repository: https://github.com/shreyshi11/Edu-Navia
 
----
+
 
 ## 🩺 Skin Cancer Detection Using Deep Learning
 
@@ -92,9 +93,10 @@ Developed a deep learning model to classify skin lesions using medical image dat
 - High classification accuracy i.e. 85.4%
 
 **Tech Stack:** Python, TensorFlow, Keras, OpenCV
+
 🔗 Repository: https://github.com/shreyshi11/skin-cancer-detection-ui
 
----
+
 
 ## 🌐 Personal Portfolio Website
 
@@ -108,9 +110,10 @@ Designed and developed a responsive personal portfolio showcasing my projects, t
 - Smooth UI
 
 **Tech Stack:** HTML, CSS, JavaScript
+
 🔗 Repository: https://github.com/shreyshi11/Portfolio-Project
 
----
+
 
 ## 🍔 Food Website
 
@@ -124,9 +127,10 @@ A modern food ordering website UI with an attractive user interface and responsi
 - User-friendly interface
 
 **Tech Stack:** HTML, CSS, JavaScript
+
 🔗 Repository: https://github.com/shreyshi11/Online-Food-Ordering-System
 
----
+
 
 ## FasalSathi
 
@@ -152,7 +156,7 @@ AI-powered Crop Yield Prediction & Optimization
 - SQL
 - Problem Solving
 
----
+
 
 ## 🏅 Achievements
 
@@ -166,7 +170,7 @@ AI-powered Crop Yield Prediction & Optimization
 
 🏆 200+ LeetCode Problems Solved
 
----
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyshisriwastav)
@@ -179,9 +183,11 @@ AI-powered Crop Yield Prediction & Optimization
 
 📧 **Email:** shreysriv23@gmail.com
 
----
+
 ⚡ Fun Fact
 
 I enjoy building projects that solve real-world problems and continuously improving my problem-solving skills.
+
+---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
