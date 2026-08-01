@@ -7,11 +7,6 @@ Final Year B.Tech Information Technology Student • Aspiring Software Engineer 
 <p align="center">
 Passionate about building impactful software, solving real-world problems, and exploring Artificial Intelligence & Full Stack Development.
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Technologies" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
