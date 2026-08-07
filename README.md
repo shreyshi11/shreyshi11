@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyshi Srivastav</h1>
+<h1 align="center">Hi 👋, I'm Shreyshi Sriwastav</h1>
 
 <p align="center">
 Final Year B.Tech Information Technology Student • Aspiring Software Engineer • AI & Full Stack Enthusiast
