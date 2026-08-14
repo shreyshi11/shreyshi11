@@ -118,7 +118,7 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 **Repository:** https://github.com/shreyshi11/Portfolio-Project
+🔗 **Repository:** https://github.com/shreyshi11/My-Portfolio
 
 
 
