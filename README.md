@@ -84,7 +84,7 @@ A smart web platform that helps students explore universities and courses based 
 **Tech Stack:** HTML • CSS • JavaScript • Firebase • EmailJS • Google Calendar API
 
 🔗 **Repository:** https://github.com/shreyshi11/Edu-Navia
-
+🌐 **Live Demo:** https://edunavia.onrender.com/
 
 
 ## 🩺 Skin Cancer Detection Using Deep Learning
@@ -119,6 +119,7 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 **Tech Stack:** HTML • CSS • JavaScript
 
 🔗 **Repository:** https://github.com/shreyshi11/My-Portfolio
+🌐 **Live Demo:** https://my-portfolio-shreyshi.vercel.app/
 
 
 
@@ -140,19 +141,36 @@ A Java-based application that implements the core functionalities of an online f
 
 
 
-## 🌾 FasalSathi – AI Powered Crop Yield Prediction & Optimization
+ ## 🧑‍🎓 Student Management System
 
-An AI-powered agriculture platform for crop yield prediction, disease detection, and intelligent farming recommendations.
+A Python-based application for managing student records using Object-Oriented Programming and file handling.
 
 ### ✨ Features
+Add Student
+View Student Records
+Update Student Information
+Delete Student Records
+JSON-based Data Storage
 
-- Crop Yield Prediction
-- Disease Detection
-- Reinforcement Learning Recommendations
-- Weather Analysis
+**Tech Stack:** Python • OOP • File Handling • JSON
 
-**Tech Stack:** React • FastAPI • XGBoost • LSTM • CNN
+🔗 **Repository:** https://github.com/shreyshi11/Student-Management-System
 
+
+
+## 📚 Library Management System
+
+A Python-based application for managing books and basic library operations using Object-Oriented Programming and file handling.
+
+### ✨ Features
+Add & View Books
+Issue & Return Books
+Manage Book Records
+JSON-based Data Storage
+
+**Tech Stack:** Python • OOP • File Handling • JSON
+
+🔗 **Repository:** https://github.com/shreyshi11/Library-Management-System
 
 
 ## 💻 Technical Skills
