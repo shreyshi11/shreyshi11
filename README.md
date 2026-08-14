@@ -198,12 +198,15 @@ JSON-based Data Storage
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyshi11&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshi11&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shreyshi11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shreyshi11&theme=tokyonight"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreyshi11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shreyshi11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
